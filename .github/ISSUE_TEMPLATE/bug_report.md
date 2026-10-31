@@ -1,7 +1,7 @@
 ---
 name: Relato de Bug
 about: Crie um relato de erro para nos ajudar a melhorar o projeto
-title: '[BUG] '
+title: "[BUG] "
 labels: bug
 assignees: ''
 
